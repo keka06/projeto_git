@@ -1,0 +1,3 @@
+git remote add origin <link> ;vincula o repositório remoto com o local
+
+git checkout -b <nome-da-nova-branch>; altera o nome da branch do repositorio
