@@ -1,3 +1,7 @@
 git remote add origin <link> ;vincula o repositório remoto com o local
 
-git checkout -b <nome-da-nova-branch>; altera o nome da branch do repositorio
+git checkout -b <nome-da-nova-branch>; altera o nome da branch do repositório
+
+git branch <nome-branch>; adiciona uma nova branch
+
+git push origin <nome-branch>; envia a branch para o remoto
